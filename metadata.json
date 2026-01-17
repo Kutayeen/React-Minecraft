@@ -1,0 +1,5 @@
+{
+  "name": "React Voxel Engine",
+  "description": "A Minecraft-style voxel game engine with multiplayer capabilities, chunk-based terrain generation, and physics.",
+  "requestFramePermissions": []
+}
